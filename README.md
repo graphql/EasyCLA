@@ -12,3 +12,5 @@ You can find [detailed information here](https://github.com/graphql/graphql-wg/t
 
 If your company benefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join). 
 
+
+
