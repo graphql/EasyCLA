@@ -1,3 +1,4 @@
+
 # GraphQL Specification Membership Onboarding
 
 This is a neutral repo where you can open a trivial PR and initiate the EasyCLA signing process. All PRs will be closed periodically.
@@ -10,5 +11,5 @@ To initiate the signature process please open a PR against this repo. The EasyCL
 
 You can find [detailed information here](https://github.com/graphql/graphql-wg/tree/main/membership). If you have issues, please email [operations@graphql.org](mailto:operations@graphql.org).
 
-If your company benefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join). 
+If your company benefits from GraphQL and you would like to provide essential financial support for the systems and people that power our community, please also consider membership in the [GraphQL Foundation](https://foundation.graphql.org/join).
 
