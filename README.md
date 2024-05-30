@@ -12,3 +12,4 @@ You can find [detailed information here](https://trustoverip.org). If you have i
 
 Join a community of individuals and organizations solving the toughest technical and human-centric problems in digital trust. [ToIP Foundation](https://trustoverip.org/get-involved/membership/). 
 
+Small edit Henk to test EasyCLA readiness
